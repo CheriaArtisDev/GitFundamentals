@@ -18,3 +18,4 @@ Here is a growing collection of resources and helpful commands to know when work
 
 - [git push](./Commands/Push.md)
 
+- [git pull](./Commands/Pull.md)

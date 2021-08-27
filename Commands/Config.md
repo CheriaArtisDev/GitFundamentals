@@ -4,7 +4,7 @@ When first setting up git, you'll need to work with the git config commands in o
 
 For example, your identity can be set up with the commands such as:
 
-```
+```git
 git config --gloabal user.name "Arnold Shortman"
 git config --global user.email arnoldshortman202@gmail.com
 ```
